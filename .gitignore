@@ -1,0 +1,6 @@
+.vs/
+.metadata/
+node_modules/
+target/
+.env
+Java_Backend-Emart/src/main/resources/application.properties
